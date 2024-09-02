@@ -26,8 +26,8 @@
     <hr>
     <center>
         <h1>|Contact|</h1>
-        <h2>+91 9500259150|+91 9171008181</h2>
-        <h2>|ganeshananthi@gmail.com|</h2>
+        <h2>+91 9500859150|+91 9171007181</h2>
+        <h2>|ganeshanai@gmail.com|</h2>
         <h3>9th street Valachary main road,Guindy,Chennai-600 028</h3>
     </center>
 </body>
